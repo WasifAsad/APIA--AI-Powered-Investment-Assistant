@@ -1,15 +1,18 @@
 #  APIA- AI Powered Investment Assistant
 
-[![Python Version](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.136.3-009688.svg?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-GPT--4.1--mini%20%7C%20text--embedding--3--large-0078D4.svg?logo=microsoftazure)](https://azure.microsoft.com/products/ai-services/openai-service)
-[![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-HNSW%20Vector%20Store-0078D4.svg?logo=microsoftazure)](https://azure.microsoft.com/products/ai-services/ai-search)
+[![Python Version](https://img.shields.io/badge/Python-3.11%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.136.3-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Glassmorphism-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-GPT--4.1--mini%20%7C%20text--embedding--3--large-0078D4.svg?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/products/ai-services/openai-service)
+[![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-HNSW%20Vector%20Store-0078D4.svg?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/products/ai-services/ai-search)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0.50-D71F00.svg)](https://www.sqlalchemy.org/)
 
 **APIA** is an enterprise-grade financial intelligence and research platform designed to automate the ingestion, semantic analysis, structured metric extraction, and conversational querying of corporate financial annual reports (10-K, Annual Reports, Earnings Releases).
 
-By combining **State-of-the-Art Retrieval Augmented Generation (RAG)**, **Azure OpenAI LLMs**, **Azure AI Search Vector Indexing**, and **MySQL Relational Persistence**, Investist transforms dense corporate PDF filings into actionable quantitative KPIs, qualitative strategic drivers, and real-time interactive financial Q&A.
+y combining **State-of-the-Art Retrieval-Augmented Generation (RAG)**, **Azure OpenAI LLMs**, **Azure AI Search Vector Indexing**, **MySQL Relational Persistence**, and an **interactive Vanilla JavaScript / HTML5 / CSS3 Glassmorphic frontend**, APIA transforms dense corporate PDF filings into actionable quantitative KPIs, qualitative strategic drivers, and real-time interactive financial Q&A.
 
 ---
 
@@ -19,11 +22,11 @@ By combining **State-of-the-Art Retrieval Augmented Generation (RAG)**, **Azure 
 - [System Architecture](#-system-architecture)
 - [Technology Stack & Detailed Breakdown](#-technology-stack--detailed-breakdown)
   - [Backend & API Framework](#1-backend--api-framework)
-  - [Large Language Models & AI Services](#2-large-language-models--ai-services)
-  - [Document Parsing & Chunking Engine](#3-document-parsing--chunking-engine)
-  - [Vector Database & Retrieval Pipeline](#4-vector-database--retrieval-pipeline)
-  - [Relational Database & Data Persistence](#5-relational-database--data-persistence)
-  - [Frontend & Visualization Layer](#6-frontend--visualization-layer)
+  - [Frontend & UI Technologies (JavaScript, HTML5, CSS3)](#2-frontend--ui-technologies-javascript-html5-css3)
+  - [Large Language Models & AI Services](#3-large-language-models--ai-services)
+  - [Document Parsing & Chunking Engine](#4-document-parsing--chunking-engine)
+  - [Vector Database & Retrieval Pipeline](#5-vector-database--retrieval-pipeline)
+  - [Relational Database & Data Persistence](#6-relational-database--data-persistence)
 - [Repository Structure](#-repository-structure)
 - [Data Flow & Pipeline](#-data-flow--pipeline)
 - [Prerequisites](#-prerequisites)
