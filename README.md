@@ -16,6 +16,9 @@
 
 By combining **State-of-the-Art Retrieval-Augmented Generation (RAG)**, **Azure OpenAI LLMs**, **Azure AI Search Vector Indexing**, **MySQL Relational Persistence**, and an **interactive Vanilla JavaScript / HTML5 / CSS3 Glassmorphic frontend**, APIA transforms dense corporate PDF filings into actionable quantitative KPIs, qualitative strategic drivers, and real-time interactive financial Q&A.
 
+## Dashboard Preview
+
+![APIA Dashboard](apia_dashboard.png)
 ---
 
 ##  Table of Contents
@@ -414,7 +417,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Author & Contributions
+## Author & Contributions
 
 Built for modern financial analysts and AI engineers. Contributions, pull requests, and feature suggestions are welcome!
 
