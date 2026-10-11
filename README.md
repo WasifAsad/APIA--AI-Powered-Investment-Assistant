@@ -12,7 +12,9 @@
 
 **APIA** is an enterprise-grade financial intelligence and research platform designed to automate the ingestion, semantic analysis, structured metric extraction, and conversational querying of corporate financial annual reports (10-K, Annual Reports, Earnings Releases).
 
-y combining **State-of-the-Art Retrieval-Augmented Generation (RAG)**, **Azure OpenAI LLMs**, **Azure AI Search Vector Indexing**, **MySQL Relational Persistence**, and an **interactive Vanilla JavaScript / HTML5 / CSS3 Glassmorphic frontend**, APIA transforms dense corporate PDF filings into actionable quantitative KPIs, qualitative strategic drivers, and real-time interactive financial Q&A.
+**APIA** is specialized in retrieving financial kpis from financial documents in a structured automated workflow, replacing hours of manual tasks in few minutes. Making easier for the investors to take their financial decisions. You can also chat with **FEA**- the financial analyst, to get a deeper understanding of any confusion/ query.
+
+By combining **State-of-the-Art Retrieval-Augmented Generation (RAG)**, **Azure OpenAI LLMs**, **Azure AI Search Vector Indexing**, **MySQL Relational Persistence**, and an **interactive Vanilla JavaScript / HTML5 / CSS3 Glassmorphic frontend**, APIA transforms dense corporate PDF filings into actionable quantitative KPIs, qualitative strategic drivers, and real-time interactive financial Q&A.
 
 ---
 
